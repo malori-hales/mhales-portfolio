@@ -1,5 +1,7 @@
-Analyzing Historical Plane Crash Data with Python
+This is my public repository for projects which I have completed academically and for my own personal interests.
 
-By Malori Hales
+1. Analyzing Historical Plane Crash Data with Python
 
-With recent media focus on aircraft types and their possible effect on flight safety, I thought that it would be beneficial to obtain and analyze plane crash data to see if there is a noticeable increase in plane crashes over time, or if there are any factors which contribute to plane crashes occuring. In this notebook, I explore, manipulate, and illustrate data containing all recorded plane crashes since 1908.
+2. Using Sentiment Analysis to Classify Gender of Book Authors
+
+#Python #Numpy #Pandas #MatPlotLib #MachineLearning #SentimentAnalysis
