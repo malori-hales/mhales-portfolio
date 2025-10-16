@@ -2,8 +2,10 @@ This is my public repository for projects which I have completed academically an
 
 Projects included:
 
-1. Analyzing Historical Plane Crash Data with Python
+1. Analyzing Historical Plane Crash Data - Python
 
-2. Using Sentiment Analysis to Classify Gender of Book Authors
+2. Analyzing Historical Plane Crash Data - Tableau
+
+3. Using Sentiment Analysis to Classify Gender of Book Authors
 
 #Python #Numpy #Pandas #MatPlotLib #MachineLearning #SentimentAnalysis
